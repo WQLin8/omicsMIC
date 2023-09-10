@@ -1,1 +1,1 @@
-# omicsMIC_T
+# omicsMIC
