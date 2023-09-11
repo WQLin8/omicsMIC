@@ -7,3 +7,6 @@ The omicsMIC interface is shown below:
 
 <img src="homepage.png" align="center" style="width:100%;" />
 
+The omicsMIC workflow is shown below:
+
+<img src="workflow_of_omicsMIC.png" align="center" style="width:100%;" />
