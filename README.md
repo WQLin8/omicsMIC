@@ -5,3 +5,11 @@ omicsMIC: a Comprehensive Benchmarking Platform for Robust Comparison of Imputat
 
 ### Run it locally
 omicsMIC can also be run on a local computer. Simply download the archive named **omicsMIC**, extract it locally, and then double-click the <img src="Run_omicsMIC.png" align="center" width="120" height="30" /> file without installing anything.
+
+### Citation
+
+Lin, W., Ji, J., Su, K. J., Qiu, C., Tian, Q., Zhao, L. J., Luo, Z., Shen, H., Wu, C., & Deng, H. (2023). omicsMIC: a Comprehensive Benchmarking Platform for Robust Comparison of Imputation Methods in Mass Spectrometry-based Omics Data. bioRxiv, 2023.09.12.557189. https://doi.org/10.1101/2023.09.12.557189.
+
+### Contact
+
+If you have any questions, suggestions, or comments, please contact [Weiqiang Lin](wlin8@tulane.edu).
