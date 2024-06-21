@@ -8,7 +8,7 @@ omicsMIC can also be run on a local computer. Simply download the archive named 
 
 ### Citation
 
-Lin, W., Ji, J., Su, K. J., Qiu, C., Tian, Q., Zhao, L. J., Luo, Z., Shen, H., Wu, C., & Deng, H. (2023). omicsMIC: a Comprehensive Benchmarking Platform for Robust Comparison of Imputation Methods in Mass Spectrometry-based Omics Data. bioRxiv, 2023.09.12.557189. https://doi.org/10.1101/2023.09.12.557189.
+Weiqiang Lin, Jiadong Ji, Kuan-Jui Su, Chuan Qiu, Qing Tian, Lan-Juan Zhao, Zhe Luo, Chong Wu, Hui Shen, Hongwen Deng, omicsMIC: a comprehensive benchmarking platform for robust comparison of imputation methods in mass spectrometry-based omics data, NAR Genomics and Bioinformatics, Volume 6, Issue 2, June 2024, lqae071, https://doi.org/10.1093/nargab/lqae071
 
 ### Contact
 
