@@ -12,4 +12,8 @@ Weiqiang Lin, Jiadong Ji, Kuan-Jui Su, Chuan Qiu, Qing Tian, Lan-Juan Zhao, Zhe 
 
 ### Contact
 
-If you have any questions, suggestions, or comments, please contact [Weiqiang Lin](wlin8@tulane.edu).
+Welcome to our platform dedicated to supporting the mass spectrometry-based omics research community. Our goal is to provide you with tools to select appropriate data imputation methods based on the specific characteristics of your data.
+
+This is the first version of our platform, and we acknowledge that there may be some issues and numerous areas for optimization and improvement. We are committed to enhancing the platform and making it as useful as possible for your research needs.
+
+If you encounter any challenges or have suggestions for improvements, we would greatly appreciate your feedback. Please do not hesitate to contact us with your insights and recommendations. Please contact [Weiqiang Lin](wlin8@tulane.edu) or leave comments on GitHub. 
