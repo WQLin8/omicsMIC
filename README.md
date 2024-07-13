@@ -4,7 +4,7 @@ omicsMIC: a Comprehensive Benchmarking Platform for Robust Comparison of Imputat
 **<font size='5'> omicsMIC </font>** is an interactive web-based platform that provides researchers with a versatile framework to simulate and evaluate the performance of 28 diverse imputation methods. omicsMIC offers a nuanced perspective, acknowledging the inherent heterogeneity in biological data and the unique attributes of each dataset. It can empower researchers to make data-driven decisions in imputation method selection based on real-time visualizations of the outcomes associated with different imputation strategies. omicsMIC can be accessed at [https://rhino-neat-woodcock.ngrok-free.app/omicsMIC/](https://rhino-neat-woodcock.ngrok-free.app/omicsMIC/) by clicking **<font color=blue>"Visit Site"</font>** as shown in the image below. <img src="Visit_Site.png" align="center" width="400" height="120" />
 
 ### Run it locally
-omicsMIC can also be run on a local computer. Simply download the archive named **omicsMIC**, extract it locally, and then double-click the <img src="Run_omicsMIC.png" align="center" width="120" height="30" /> file without installing anything.
+omicsMIC can also be run on a local computer. Download the archive named **omicsMIC** from [https://doi.org/10.5281/zenodo.10016741](https://doi.org/10.5281/zenodo.10016741), extract it locally, and then double-click the <img src="Run_omicsMIC.png" align="center" width="120" height="30" /> file without installing anything.
 
 ### Citation
 
