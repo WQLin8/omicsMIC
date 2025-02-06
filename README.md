@@ -2,7 +2,7 @@
 
 **<font size='5'> omicsMIC </font>** is an interactive web-based platform that provides researchers with a versatile framework to simulate and evaluate the performance of 28 diverse imputation methods. omicsMIC offers a nuanced perspective, acknowledging the inherent heterogeneity in biological data and the unique attributes of each dataset. It can empower researchers to make data-driven decisions in imputation method selection based on real-time visualizations of the outcomes associated with different imputation strategies. 
 
-## How to Use transFusion
+## How to Use omicsMIC
 
 ### Run it locally
 omicsMIC can also be run on a local computer. Download the archive named **omicsMIC** from [https://doi.org/10.5281/zenodo.10016741](https://doi.org/10.5281/zenodo.10016741), extract it locally, and then double-click the <img src="Run_omicsMIC.png" align="center" width="120" height="30" /> file without installing anything.
@@ -12,7 +12,7 @@ Alternatively, you can directly access omicsMIC via the cloud:
 
 omicsMIC can be accessed via
 
-➡️ **[Launch transFusion on Cloud](https://rhino-neat-woodcock.ngrok-free.app/omicsMIC/)**
+➡️ **[Launch omicsMIC on Cloud](https://rhino-neat-woodcock.ngrok-free.app/omicsMIC/)**
 
 ## Citation
 
