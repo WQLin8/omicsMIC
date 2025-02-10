@@ -10,7 +10,7 @@ omicsMIC can also be run on a local computer. Download the archive named **omics
 ### Access via Our Cloud Server
 Alternatively, you can directly access omicsMIC via the cloud:
 
-➡️ **[Launch omicsMIC on Cloud](https://rhino-neat-woodcock.ngrok-free.app/omicsMIC/)**
+➡️ **[Launch omicsMIC on Cloud](https://rhino-neat-woodcock.ngrok-free.app/app/omicsmic)**
 
 ## Citation
 
