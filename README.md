@@ -22,4 +22,4 @@ Welcome to our platform dedicated to supporting the mass spectrometry-based omic
 
 This is the first version of our platform, and we acknowledge that there may be some issues and numerous areas for optimization and improvement. We are committed to enhancing the platform and making it as useful as possible for your research needs.
 
-If you encounter any challenges or have suggestions for improvements, we would greatly appreciate your feedback. Please do not hesitate to contact us with your insights and recommendations. Please contact [Weiqiang Lin](wlin8@tulane.edu) or leave comments on GitHub. 
+If you encounter any challenges or have suggestions for improvements, please do not hesitate to contact us with your insights and recommendations. Please contact **Weiqiang Lin**： wlin8@tulane.edu or leave comments on GitHub. 
